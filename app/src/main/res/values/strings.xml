@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Register_Login</string>
+    <string name="register_and_login">Register and Login!</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="or">or</string>
+    <string name="please_choose_one">Please choose one:</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="enter_date_of_birth">mm/dd/yyyy</string>
+    <string name="enter_phone">Enter phone number</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_user">Enter username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="confirm">Confirm</string>
+</resources>
